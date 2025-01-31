@@ -1,1 +1,1 @@
-print("fuck you bitch!") 
+print(" !") 
